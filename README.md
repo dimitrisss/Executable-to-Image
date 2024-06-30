@@ -29,3 +29,6 @@ To create an executable file that appears as an image (or a Word document, music
 ---
 
 By following these steps, you can effectively hide an executable within an image or other file type using WinRAR.
+
+---
+https://youtu.be/cXEkSQl9wmw?si=6dEcSlMp3RejRRDn
